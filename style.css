@@ -4,7 +4,11 @@ body {
     color: #222;
     margin-top: 100px;
 }
-
+.bio {
+    background-color: mintcream;
+    font-family: Helvetica, sans-serif;
+    color: #222;
+}
 img {
     width: 100%;
 }
