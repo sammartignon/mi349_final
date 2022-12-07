@@ -32,6 +32,9 @@ img {
 }
 .GOT {
     font-family: cursive;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 20px;
 }
 h1 {
     margin: 15px 0;
