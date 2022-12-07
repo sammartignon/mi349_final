@@ -8,6 +8,10 @@ body {
     background-color: mintcream;
     font-family: Helvetica, sans-serif;
     color: springgreen;
+    text-align: center;
+}
+.fampic {
+    size: 100px;
 }
 img {
     width: 100%;
