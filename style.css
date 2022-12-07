@@ -21,6 +21,10 @@ img {
     color: springgreen;
     font-weight: bolder;
 }
+.biotext {
+    margin-left: 15px;
+    margin-right: 15px;
+}
 .fampic {
     width: 200px;
     border-radius: black;
