@@ -6,9 +6,10 @@ body {
 }
 .bio {
     background-color: mintcream;
-    font-family: Helvetica, sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: black;
     text-align: center;
+    margin-bottom: 100px;
 }
 .titleslist {
     list-style-type: none;
