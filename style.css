@@ -1,5 +1,5 @@
 body {
-    background-color: #ccc;
+    background-color: mintcream;
     font-family: Helvetica, sans-serif;
     color: #222;
     margin-top: 100px;
@@ -14,6 +14,10 @@ h1 {
 h2{
     margin: 0;
     font-weight: 100;
+}
+#ititle {
+    color: mediumspringgreen;
+    font-weight: bold;
 }
 
 .card {
