@@ -7,14 +7,15 @@ body {
 .bio {
     background-color: mintcream;
     font-family: Helvetica, sans-serif;
-    color: springgreen;
+    color: black;
     text-align: center;
-}
-.fampic {
-    size: 100px;
+    list-style-type: none;
 }
 img {
     width: 100%;
+}
+.fampic {
+    width: 50px;
 }
 h1 {
     margin: 15px 0;
