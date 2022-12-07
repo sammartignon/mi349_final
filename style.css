@@ -16,8 +16,14 @@ body {
 img {
     width: 100%;
 }
+#biotitle {
+    color: springgreen;
+    font-weight: bolder;
+}
 .fampic {
-    width: 100px;
+    width: 200px;
+    border-bottom: dotted;
+    border-top: dotted;
 }
 h1 {
     margin: 15px 0;
