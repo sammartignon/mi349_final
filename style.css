@@ -83,8 +83,10 @@ h2{
 
 .con1 {
     float: left;
+    width: 30px;
 }
 
 .con2 {
     float: right;
+    width: 30px;
 }
