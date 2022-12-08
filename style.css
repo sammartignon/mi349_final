@@ -47,12 +47,12 @@ h2{
     font-weight: 100;
 }
 #ititle {
-    color: mediumspringgreen;
+    color: springgreen;
     font-weight: bold;
 }
 
 .card {
-    background-color: springgreen;
+    background-color: white;
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
