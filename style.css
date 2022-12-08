@@ -19,7 +19,7 @@ img {
     width: 100%;
 }
 #biotitle {
-    color: springgreen;
+    color: black;
     font-weight: bolder;
 }
 .biotext {
@@ -52,7 +52,7 @@ h2{
 }
 
 .card {
-    background-color: #f3f3f3;
+    background-color: springgreen;
     border-radius: 15px;
     margin: 0 auto;
     width: 400px;
