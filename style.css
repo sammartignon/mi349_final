@@ -92,7 +92,6 @@ h2{
 }
 
 .fampic {
-    display: flex;
-    flex: auto;
+    display: inline-flex;
     padding: 15px;
 }
