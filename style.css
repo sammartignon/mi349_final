@@ -95,4 +95,14 @@ h2{
 display: flex;
 margin: 0 auto;
 
+
+}
+#con3 {
+    width: 40px;
+    margin-left: 100px;
+}
+
+#con4 {
+    width: 40px;
+    margin-right: 100px;
 }
