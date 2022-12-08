@@ -90,3 +90,9 @@ h2{
     width: 40px;
     margin-right: 100px;
 }
+
+.fampic {
+    display: flex;
+    flex: auto;
+    padding: 15px;
+}
