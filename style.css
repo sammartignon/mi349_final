@@ -84,16 +84,15 @@ h2{
 #con1 {
     width: 40px;
     margin-left: 100px;
-    margin-bottom: 120px;
 }
 
 #con2 {
     width: 40px;
     margin-right: 100px;
-    margin-bottom: 150px;
 }
 
 .fampic {
 display: flex;
 margin: 0 auto;
+align-items: center;
 }
