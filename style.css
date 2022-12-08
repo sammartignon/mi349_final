@@ -82,9 +82,9 @@ h2{
 }
 
 .con1 {
-    float: left 100px;
+    float: left;
 }
 
 .con2 {
-    float: right 100px;
+    float: right;
 }
