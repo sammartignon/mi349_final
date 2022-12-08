@@ -84,15 +84,17 @@ h2{
 #con1 {
     width: 40px;
     margin-left: 100px;
+    float: right;
 }
 
 #con2 {
     width: 40px;
     margin-right: 100px;
+    float: right;
 }
 
 .fampic {
 display: flex;
 margin: 0 auto;
-align-items:baseline;
+
 }
