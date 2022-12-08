@@ -80,3 +80,11 @@ h2{
     opacity: .5;
     transition: opacity ease-in-out 0.2s;
 }
+
+.con1 {
+    float: left 100px;
+}
+
+.con2 {
+    float: right 100px;
+}
